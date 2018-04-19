@@ -1,0 +1,5 @@
+info	GenerationTime	ExecutionTime	PlanTime	NumRoles(Before)	NumRoles(After)	NumAss(Before)	NumAss(After)	numUsers	NumPermessi	numAssUPA	numAssUA	numAssPA	opt	sim	ResultCompliance
+exc_0_beta_0.0	4527.42	24041.12	0	580	581	99713	99715	365	709	31920	52010	47705	-1.64199142046	0.999153074885	True
+exc_1_beta_0.0	4312.95	24046.66	0	580	581	99713	99715	365	709	31920	52010	47705	-1.64199142046	0.999354561102	True
+exc_2_beta_0.0	4418.59	25281.64	0	580	581	99713	99715	365	709	31920	52010	47705	-1.64199142046	0.999311531842	True
+exc_3_beta_0.0	4386.03	22723.41	0	null	null	null	null	null	709	null	null	null	null	null	False

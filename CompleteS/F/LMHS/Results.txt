@@ -1,0 +1,1 @@
+info	GenerationTime	ExecutionTime	PlanTime	NumRoles(Before)	NumRoles(After)	NumAss(Before)	NumAss(After)	numUsers	NumPermessi	numAssUPA	numAssUA	numAssPA	opt	sim	ResultCompliance

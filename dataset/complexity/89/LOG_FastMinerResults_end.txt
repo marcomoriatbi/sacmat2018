@@ -1,0 +1,48 @@
+Fast Miner
+
+--------------------------------------------------------
+The permissions of the 0th role are: 
+p_P6,
+p_P654,
+p_P665
+The users of the 0th role are: 
+u_U1
+
+--------------------------------------------------------
+The permissions of the 1th role are: 
+p_P327,
+p_P362,
+p_P364,
+p_P366,
+p_P368,
+p_P384
+The users of the 1th role are: 
+u_U100
+
+--------------------------------------------------------
+The permissions of the 2th role are: 
+p_P362,
+p_P364,
+p_P366,
+p_P368,
+p_P384
+The users of the 2th role are: 
+u_U100,
+u_U102
+
+--------------------------------------------------------
+The permissions of the 3th role are: 
+p_P346
+The users of the 3th role are: 
+u_U105
+
+--------------------------------------------------------
+The permissions of the 4th role are: 
+p_P311,
+p_P377,
+p_P519,
+p_P564
+The users of the 4th role are: 
+u_U107
+
+--------------------------------------------------------

@@ -1,0 +1,2 @@
+info	GenerationTime	ExecutionTime	NumVariables	NumClauses	DimensionFormula	PlanTime	NumRoles(Before)	NumRoles(After)	NumZeros(Before)	NumZeros(After)	ResultCompliance
+exc_0_w_0.0	38.72	73.67	323712	2709644	66931071	False

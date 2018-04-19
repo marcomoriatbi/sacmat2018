@@ -1,0 +1,2 @@
+info	GenerationTime	ExecutionTime	PlanTime	NumRoles(Before)	NumRoles(After)	NumAss(Before)	NumAss(After)	numUsers	NumPermessi	numAssUPA	numAssUA	numAssPA	opt	sim	ResultCompliance
+exc_0_beta_0.0	49.8300000001	1034.74	0	null	null	null	null	null	231	null	null	null	null	null	False
